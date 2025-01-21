@@ -6,4 +6,6 @@
 <h2><b>Tecnologias</b></h2>
 <img src="https://github.com/user-attachments/assets/d463a296-8f3a-49e1-a791-ddef79d223d8">
 <p></p>
-<h2><b>Time</b></h2>
+<h2><b>Time de Desenvolvimento</b></h2>
+<p></p>
+
