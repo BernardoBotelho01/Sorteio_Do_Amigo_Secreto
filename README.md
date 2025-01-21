@@ -8,4 +8,6 @@
 <p></p>
 <h2><b>Time de Desenvolvimento</b></h2>
 <p></p>
-
+<img src="https://github.com/user-attachments/assets/2a5855c3-d74b-4a4f-8998-f029b264b535"
+     style="width: 80px; height: auto;">
+  <h4>Bernrado Botelho<h4>
