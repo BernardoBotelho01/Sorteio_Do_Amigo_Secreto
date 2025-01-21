@@ -14,8 +14,10 @@
   </tr>
 </table
 <p></p>
+
 <h2 align="center"><b>Link da GitHub Pages</b></h2>
-https://bernardobotelho01.github.io/Sorteio_Do_Amigo_Secreto/
+<h4 align="center">https://bernardobotelho01.github.io/Sorteio_Do_Amigo_Secreto/</h4>
+
 <p></p>
 <h2 align="center"><b>Time de Desenvolvimento</b></h2>
 <p></p>
